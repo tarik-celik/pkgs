@@ -1,3 +1,3 @@
 #!/bin/sh
-curl -s -O https://github.com/dylanaraps/pfetch/blob/master/pfetch
+curl -s -O https://raw.githubusercontent.com/dylanaraps/pfetch/master/pfetch
 chmod +x pfetch
